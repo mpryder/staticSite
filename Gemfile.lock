@@ -1,17 +1,9 @@
 GEM
   remote: https://rubygems.org/
-<<<<<<< HEAD
-=======
-  remote: http://rubygems.org/
->>>>>>> b80b44088af59ed35df1ef1bb1da8d3d896eeac2
   specs:
     rack (1.5.2)
 
 PLATFORMS
-<<<<<<< HEAD
-  ruby
-=======
->>>>>>> b80b44088af59ed35df1ef1bb1da8d3d896eeac2
   x86-mingw32
 
 DEPENDENCIES
